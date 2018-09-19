@@ -5,7 +5,7 @@ Regarding the https://stackoverflow.com/questions/47673461/how-to-make-webkit-we
 
 Also did article about this https://www.linkedin.com/pulse/how-make-webkit-webview-swift-safe-area-constraints-iphone-delovski/
 
-If you like this and you found useful you can contribute on my paypal kirilrap@aol.com
+If you like this and you found useful 🍻 Buy me a beer by contributing to paypal kirilrap@aol.com
 
 Cheers!
 
